@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA), User Churn Project - Waze
+# Exploratory Data Analysis (EDA), User Churn Project
 
 # Project Overview
 The Waze data team is currently developing a data analytics project aimed at increasing overall growth by 
