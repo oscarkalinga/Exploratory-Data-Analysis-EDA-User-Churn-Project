@@ -5,7 +5,7 @@ The Waze data team is currently developing a data analytics project aimed at inc
 preventing monthly user churn on the Waze app. Thorough exploratory data analysis (EDA) enables Waze 
 to make better decisions about how to proactively target users likely to churn, thereby improving retention 
 and overall customer satisfaction. This report offers details and key insights which 
-impact the future development of the overall project. 
+impact the future development of the overall project. The key insight drawn from the analysis is the more times users used the app, the less likely they were to churn. While 40% of the users who didn't use the app at all last month churned, nobody who used the app for 30 days churned.
 
 # Business understanding
 Waze’s free navigation app makes it easier for drivers around the world to get to where they want to go. Waze’s community of map editors, beta testers, 
